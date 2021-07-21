@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "622042849098",
+    "project_id": "myfriebase-aabc1",
+    "storage_bucket": "myfriebase-aabc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622042849098:android:542aa26240ea3c90016bb3",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622042849098-pp46muf701gta8v91dbk0nofejke189e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseauth",
+            "certificate_hash": "5a2a6a7bd80a6cf680f56bfdd936207159bcaeff"
+          }
+        },
+        {
+          "client_id": "622042849098-kmrmnhttq182icilghddotvo6bi0uc66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkxODl0-nnsniFO5RjztZEk6i_dmsSfvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622042849098-kmrmnhttq182icilghddotvo6bi0uc66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
